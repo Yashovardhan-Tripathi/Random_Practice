@@ -11,6 +11,8 @@ int w = 10;//global variable
 
 int main()
 {
+    int a = 5, b = 1;
+    printf("sum = %d\n", a + b);
     int x = 10;//local variable hg
     cout << "Value of x is : " << x << endl; // This will print local variable
     cout << "Value of w is : " << w;         // this will print globle variable
