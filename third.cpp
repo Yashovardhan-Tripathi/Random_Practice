@@ -6,7 +6,8 @@ int main()
     cout << "Hello, World!" << endl;
     int q;
     q=q*0;
-    printf ("%d",q);
+    int r=10;
+    printf ("%d",q+r);
     return 0;
 
 }
