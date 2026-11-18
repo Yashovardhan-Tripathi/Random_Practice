@@ -9,5 +9,4 @@ int main()
     int r=10;
     printf ("%d",q+r);
     return 0;
-
 }
